@@ -327,14 +327,12 @@
                 <h1 id="title1">Happy Birthday, <span class="accent">Anumehaaaaa</span></h1>
                 <p class="lead">
                     Aaj ka din bahut khaas hai — tumhara din. Dooriyon ke bawajood main chahta hoon ke tumhe lage main
-                    tumhare bilkul kareeb hoon. Yeh site maine isliye banaya taaki tum jab bhi chaho, kabooliyat ke
-                    saath, mere emotions ko padh sako; har paragraph mere dil ka ek tukda hai jo tumhare liye ghar
-                    bhejne jaisi feeling de.
+                    tumhare bilkul kareeb hoon. Yeh site maine isliye banayi hai taaki tum jab bhi chaho, mere emotions ko padh sako; har paragraph mere dil ka ek tukda hai.
                 </p>
 
                 <p>
                     Main tumhare liye itna bolna chahta hoon ki kabhi kabhi lafz kam pad jaate hain. Yeh pages tumhare
-                    liye — lamhon ka ek collection hain: late-night calls, silly memes, unplanned video calls, cute
+                    liye — lamhon ka ek collection hain: late-night calls, unplanned video calls, cute
                     gussa aur pyare se "okay let's patch up" messages. Jab tum inhe padhogi, har sentence mein mera sach
                     milega.
                 </p>
@@ -364,13 +362,12 @@
 
                 <p>
                     Main aksar imagine karta hoon ek aisi morning jahan tum mere samne ho. Tum ek oversized hoodie pehne
-                    hogi, ungli se apne baal piche kar rahi hogi, aur main tumhe chhed raha hoga ki tumhe mera sweater
+                    hogi, ungli se apne baal piche kar rahi hogi, aur main tumhe chhed raha hoga ki  mera sweater mujhe wapis
                     chahiye. Bas woh normalness mere liye ek dream hai jo main roz dekhna chahta hoon.
                 </p>
 
                 <p>
-                    Long-distance mein humari subahیں digital hoti hain — notes, voice messages, photos of your
-                    breakfast. Par har chhoti cheez mere liye giant memory ban jaati hai. Tumhari voice note mujhe ek
+                    Long-distance mein humari subahیں digital hoti hain . Par har chhoti cheez mere liye giant memory ban jaati hai. Tumhari voice note mujhe ek
                     reminder hai ki koi mujhe itna pyaar karta hai ke subah ki simplicity bhi special ban jaati hai.
                 </p>
 
@@ -387,7 +384,7 @@
                 <h2 id="title3">💌 Midday Letter — Little Reminders</h2>
 
                 <p>
-                    Jab main office ya college mein busy hota hoon, tum ek sudden meme bhej deti ho, ya ek silly selfie,
+                    Jab main college mein busy hota hoon, tum ek sudden message bhej deti ho, ya ek silly selfie jo aaj tak tumne nahi bheji but fir bhi m likh raha hu ,
                     aur main bas muskuraa deta hoon. Yeh chhote interruptions meri monotonous day ko break kar dete
                     hain. Tumne mujhe sikhaya hai ki love ka matlab grand gestures se zyada daily presence hai — digital
                     presence bhi ek tarah ki dedication hai.
@@ -401,7 +398,7 @@
 
                 <p>
                     Maine seekha hai ki LDR mein small things count karte hain: on-time replies, late-night "are you
-                    awake?" checks, surprise food deliveries, ya simple "tum kaisi ho?" texts. Yeh chhoti cheezein
+                    awake?" checks, ya simple "tum kaisi ho?" texts. Yeh chhoti cheezein
                     tumhari care ko dikhati hain aur mujhe lagta hai hum dono yahi chhote rituals banate rahenge.
                 </p>
 
@@ -417,14 +414,14 @@
                 <h2 id="title4">💌 Night Letter — When The World Sleeps</h2>
 
                 <p>
-                    Raat ko jab sab so jata hai, hum dono ki calls sabse special hoti hain. Tumhara face screen pe,
+                    Raat ko jab sab so jata hai, hum dono ki batee sabse special hoti hain. Tumhara face screen pe,
                     thoda dim light mein, tum relative quietly baat karte ho — aur main har lafz ko cherish karta hoon.
                     Humari longest calls, sapno ki planning aur secret jokes — sab raaton mein bante hain. Woh raat
                     mujhe lagta hai hum actually present hote hain, distance disappears for a while.
                 </p>
 
                 <p>
-                    Kabhi kabhi jab tum so jati ho aur main tumhari breathing sunta hoon on call, main sochta hoon ki
+                    ek bar jabtum so gayi thi  aur main tumhari breathing sun raha tha  on call, main sochta hoon ki
                     kaash yeh moment physically ho. Tumhari thandi forehead aur tumhari relaxed shoulder — imagine karte
                     hi ek alag peace milta hai. Until we meet, main har raat is digital intimacy ko sacred rakhta hoon.
                 </p>
@@ -449,7 +446,7 @@
                 <p>
                     Sach bolun to main tumhe itna miss karta hoon ke kabhi kabhi aankhon mein aansu aa jaate hain —
                     especially jab koi chhota sa trigger aa jata hai: koi song jo tumhe yaad dilata hai, koi place jahan
-                    humne baat ki thi, ya koi movie jise hum next week dekhna chahte they. Yeh feeling heavy hoti hai —
+                    humne jane ki baat ki thi, ya koi movie jise hum sath m dekhna chahte hai. Yeh feeling heavy hoti hai —
                     par uss heaviness ke beech ek warmth bhi hoti hai — because even missing you proves how much you
                     matter to me.
                 </p>
@@ -546,7 +543,7 @@
                 </p>
 
                 <p>
-                    You posted a photo that day and I remember thinking, "I want to know her world." Us excitement ne
+                    tumhe aur jada jannne ki Us excitement ne
                     mujhe gentle bana diya. It amazed me how two strangers can slowly stitch a friendship that becomes
                     the core of a relationship. Even with screens and timezones, we managed to create a space for
                     honesty.
@@ -554,8 +551,7 @@
 
                 <p>
                     Aaj wo pehli message jo lagbhag nothing thi, mere liye ek treasure hai — proof that simple
-                    beginnings can lead to deep connections. I still have that screenshot saved somewhere, and every
-                    time I open it I smile like a kid.
+                    beginnings can lead to deep connections.
                 </p>
 
                 <div class="footer-nav">
@@ -600,9 +596,9 @@
                 <h2 id="title10">❤️ Reason I Love You — Your Voice</h2>
 
                 <p>
-                    Tumhari voice mere liye anchor hai. Chahe tum excited ho ya tired, tumhari tone har baar kuch keh
-                    jaati hai. I replay your voice notes on tough days, and they make everything better. Long-distance
-                    mein tumhari voice is like a home audio — it grounds me.
+                    Tumhari voice mere liye treasure hai. Chahe tum excited ho ya tired, tumhari tone har baar kuch keh
+                    jaati hai. 
+                    Long-distance mein tumhari voice is like a home audio — it grounds me.
                 </p>
 
                 <p>
@@ -612,7 +608,7 @@
                 </p>
 
                 <p>
-                    Isliye main promise karta hoon ki jab hum milenge, main tumhari voice ko aur zyada ghar mein sunna
+                    Isliye main promise karta hoon ki jab hum milenge, main tumhari voice ko aur zyada kareeb se sunna
                     chahta hoon — tum jaisi ho waisi hi, bina filter ke.
                 </p>
 
@@ -629,12 +625,12 @@
 
                 <p>
                     Tum har choti zarurat notice karti ho. Jab main kisi tough situation se guzarta hoon, tum ek simple
-                    "how are you handling it?" bhejti ho — aur wo feel hi alag hoti hai. Tumhara care performative nahi,
+                    "how are you?" bhejti ho — aur wo feel hi alag hoti hai. Tumhara care performative nahi,
                     iska evidence tumhare consistent support mein milta hai.
                 </p>
 
                 <p>
-                    Tumhare thoughtful gestures — surprise snacks delivery, late-night motivational texts, ya bas ek
+                    Tumhare thoughtful gestures —  late-night motivational texts, ya bas ek
                     "tum strong ho" message — sab mere liye huge. Yeh sab proof hai ki pyaar action se bhi bolta hai,
                     not just words.
                 </p>
@@ -656,7 +652,7 @@
                 <h2 id="title12">❤️ Reason I Love You — Your Strength</h2>
 
                 <p>
-                    Tum quietly strong ho. Jab life throws challenges, tum protocol se handle karti ho — plan, execute,
+                    Tum quietly strong ho. whwn life throws challenges, tum protocol se handle karti ho — plan, execute,
                     reflect. Tumhara resilience mujhe inspire karta hai to be better. Main tumhari independence respect
                     karta hoon and also want to be the safe place where you can rest.
                 </p>
@@ -680,7 +676,7 @@
                 <p>
                     Aaj se main promise karta hoon: har week ek dedicated "us" hour fix karunga — bina distractions,
                     sirf tumhare liye. Agar tum busy ho, main patiently wait karunga — par humari consistency maintain
-                    hogi. Chhote commitments create trust — aur main unko take seriously.
+                    hogi. Chhote commitments create trust — aur main unko seriously lunga.
                 </p>
 
                 <p>
@@ -732,7 +728,7 @@
                 <p>
                     Financial security, emotional safety, aur mutual growth — in teeno cheezon pe main kaam karunga.
                     Main chahta hoon humari compatibility reality se match kare — aur uske liye hum daily small
-                    exercises karenge: clarity calls, honest feedback, and weekly check-ins for growth.
+                    exercises karenge: clarity texts, honest feedback, and weekly check-ins for growth.
                 </p>
 
                 <div class="footer-nav">
@@ -755,7 +751,7 @@
                 <p>
                     I am grateful for your trust — it's the foundation of everything. Jab tum apni vulnerability dikhati
                     ho, mujhe lagta hai humara bond deeper ho jata hai. Aaj main publicly (well, within this secret
-                    website) say kar raha hoon — main lucky hu ke tum mere saath ho.
+                    website) bol raha hoon — main lucky hu ke tum mere saath ho.
                 </p>
 
                 <div class="footer-nav">
